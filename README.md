@@ -54,4 +54,6 @@ The hitbox area is defined in n pixels - origin point coordinates.
 hitbox_area = [x1, y1, x2, y2]    # For example, if area is [60, 0, 100, 30], it would equal [281, 374, 321, 404]
 ```
 ---
-### 
+I'm not a python expert, every advice is welcome!
+
+With ❤ by 0x414b.
