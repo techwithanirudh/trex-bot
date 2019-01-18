@@ -1,4 +1,4 @@
-# Python BOT for Google's T-Rex Game
+# Python BOT for T-Rex Game
 This is the T-Rex game im using for this example:
 http://www.trex-game.skipser.com/
 ### Libraries needed
